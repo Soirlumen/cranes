@@ -1,5 +1,5 @@
 # SCOTLAND FOREVER !!!
--# anyway
+> anyway
 ## Databáze jeřábů =)
 1. potřebujeme docker nebo podman
 2. potřebujeme být ve složce s docker-compose.yml a init.sql
